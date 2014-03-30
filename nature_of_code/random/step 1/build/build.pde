@@ -1,7 +1,7 @@
 int[] randomCounts;
 
 void setup() {
-	size(640,240);
+	size(640,540);
 	randomCounts = new int[20];
 }
 
